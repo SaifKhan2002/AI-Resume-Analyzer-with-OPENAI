@@ -1,0 +1,7 @@
+Flask>=2.0
+pymongo>=4.0
+python-dotenv>=1.0.0
+python-docx>=0.8.11
+pdfplumber>=0.7.5
+openai>=0.27.0
+pyspellchecker>=0.7.0
